@@ -12,6 +12,8 @@ Like a blueprint or a template that you can modify to solve your particular prob
 ### Links:
 * [Javascript Design Patterns #1 - Factory Pattern][1]
 * [JavaScript Design Patterns by Soumyajit Pathak][2]
+* [Video from Vladilen][3]
 
 [1]: https://www.youtube.com/watch?v=kuirGzhGhyw
 [2]: https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15
+[3]: https://www.youtube.com/watch?v=YJVj4XNASDk
